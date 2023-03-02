@@ -1,0 +1,110 @@
+Pg1: find buy and sell Stock
+Pg2: find greatest number n/2,n/3
+pg3: find largest sum of contigious subarray
+pg4: find Merge  overlaping intervals
+pg5: find merge two sorted array
+pg6: find permutation of digits
+pg7: find permutation of alphabet
+pg8: find pascal triangle
+pg9: find Rotate matrix
+pg10: find search 2d Matrix
+pg11: find set matrix Zeros
+pg12: Wangoes Name pattern
+pg13: Heart Pattern
+pg14: selection sort
+pg15: bubble sort
+pg16 find repeated sustring pattern
+pg17 remove duplicates form list
+pg18 pattern search
+pg19: mirrored pyramid pattern
+pg20 find HCF
+pg21: find LCM
+pg22: equilateral trianlge pattern
+pg23: find Anagram String
+pg24: calculator
+pg25: find count occurances
+pg26: Leap year
+pg27: add two matrix
+pg28: find armstrong no in between range
+pg29: find cumulative sum 
+pg30: find factorial
+pg31: find K th column matrix
+pg32: find longest common prefix
+pg33: find palindrome 
+pg34: find prime number
+pg35: Transpose a matrix in Single line in Python
+pg36: Vertical Concatenation in Matrix
+pg37:  Maximum and Minimum K elements in Tuple
+pg38:  Remove Tuples of Length K
+pg39: sort a list of tuples by second Item
+pg40: Convert Nested Tuple to Custom Key Dictionary
+pg41: Multiply all numbers in the list
+pg42: interchange first and last elements in a list
+pg43:  swap two elements in a list
+pg44:  Reversing a List
+pg45:  find smallest number in a list(without built in function)
+pg46: find largest number in a list(without built in function)
+pg47: print even numbers in a list
+pg48: print odd numbers in a List
+pg49 :print positive,negative numbers in a list
+pg50: Break a list into chunks of size N in Python
+pg51:  Inverted Pyramid of Numbers
+pg52:  Pyramid Pattern of Numbers
+pg53:  Inverted Pyramid of Descending Numbers
+pg54:  Reverse Pyramid of Numbers
+pg55:  Inverted Half Pyramid Number Pattern
+pg56: Pyramid of Natural Numbers Less Than 10
+pg57: Reverse Pattern of Digits from 10 
+pg58: Unique Pyramid Pattern of Digits
+pg59: Connected Inverted Pyramid Pattern of Numbers
+pg60: Even Number Pyramid Pattern
+pg61: Pyramid of Horizontal Tables
+pg62: Pyramid Pattern of Alternate Numbers
+pg63: Equilateral Triangle with numbers
+pg64: Downward Triangle Pattern of Stars
+pg65: Half Pyramid Pattern of Numbers
+pg66:  multiply two matrices
+pg67: Matrix Product
+pg68: Matrix creation of n*n
+pg69: Maximum frequency character in String
+pg70: Check if a Substring is Present in a Given String
+pg71: program to print even length words in a string
+pg72: remove i’th character from string
+pg73: Program to accept the strings which contains all vowels
+pg74: Least Frequent Character in String
+pg75: Program to check if a string contains any special character
+pg76: Find words which are greater than given length k\
+pg77: program for removing i-th character from a string
+pg78:  program to split and join a string
+pg79: Check if a given string is binary string or not
+pg80:  find uncommon words from two Strings
+pg81:  Replace duplicate Occurrence in String
+pg82: Replace multiple words with K
+pg83: String slicing in Python to rotate a string
+pg84: String slicing in Python to check if a string can become empty by recursive deletion
+pg85:  Find all duplicate characters in string
+pg86: Replace all occurrences of a substring in a string
+pg87: find the sum of all items in a dictionary
+pg88:Print anagrams together in Python using List and Dictionary
+pg89: Python Counter to find the size of largest subset of anagram words
+pg90: Python Dictionary to find mirror characters in a string
+pg91: Python Program to Split the array and add the first part to the end
+pg92: Python Program to check if given array is Monotonic
+pg93: print pattern of dynamic A
+pg94: print pattern of dynamic B
+pg95  print pattern of dynamic C
+pg96: print pattern of dynamic D
+pg97: print pattern of dynamic E
+pg98: print pattern of dynamic F
+pg99: print pattern of dynamic G
+pg100: print pattern of dynamic I
+
+pg101 :create linked list in python
+pg102: reverse linked list in python
+pg103 find middle element in linked list
+
+
+
+
+
+ 
